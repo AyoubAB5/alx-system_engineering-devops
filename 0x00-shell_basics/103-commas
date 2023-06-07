@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A | paste -sd ',' -
+ls -m | tr -d '\n'
