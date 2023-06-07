@@ -1,2 +1,6 @@
 #!/bin/bash
-/tmp/correction/8933904278203425110703508438909055494501_5/205/449849/0x00-shell_basics
+
+# This script prints the absolute path name of the current working directory
+
+# Print the absolute path name
+pwd
