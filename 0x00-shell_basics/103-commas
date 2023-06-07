@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ap | sort -dfk1.1 | tr n , | sed s/,$/n/
+ls -A | paste -sd ',' -
