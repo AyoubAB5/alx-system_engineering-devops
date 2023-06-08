@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n "$(id -un)"
+printf "%s\n" "$(id -un)"
